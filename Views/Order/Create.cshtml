@@ -1,0 +1,81 @@
+﻿@model Order
+
+<!--Start breadcrumb area-->
+<section class="breadcrumb-area style3" style="background-image: url(https://html.tonatheme.com/2020/energy-demo/assets/images/breadcrumb/breadcrumb-3.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="inner-content clearfix">
+                    <div class="title wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                        <h1>Заявка</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End breadcrumb area-->
+<!--Start Contact Form Section-->
+<section id="contact" class="contact-form-area style2">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="contact-form-content style2">
+                    <div class="contact-form">
+                        <div class="inner-box">
+                            <form asp-controller="Order" asp-action="Create" method="post">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                
+
+                                <div class="form-group">
+                                    <label asp-for="Name" class="control-label">ФИО</label>
+                                    <input asp-for="Name" class="form-control" />
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Email" class="control-label">Почта</label>
+                                    <input asp-for="Email" class="form-control" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Service" class="control-label">Сервис</label>
+                                    <select asp-for="Service" class="form-control">
+                                        <option value="Страхование жилья">Страхование жилья</option>
+                                        <option value="Страхование имущества">Страхование имущества</option>
+                                        <option value="Страхование от ответственности">Страхование от ответственности</option>
+                                    </select>
+                                    <span asp-validation-for="Service" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label asp-for="Phone" class="control-label">Номер телефона (с +7)</label>
+                                    <input asp-for="Phone" class="form-control" />
+                                    <span asp-validation-for="Phone" class="text-danger"></span>
+                                </div>
+
+
+                                <div class="form-group">
+                                    <label asp-for="Message" class="control-label">Сообщение</label>
+                                    <textarea asp-for="Message" class="form-control"></textarea>
+                                    <span asp-validation-for="Message" class="text-danger"></span>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-xl-12">
+                                        <div class="button-box text-center">
+                                            <button class="btn-one thm-bgc1" type="submit"><span class="txt">Оформить</span></button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

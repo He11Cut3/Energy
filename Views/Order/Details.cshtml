@@ -1,0 +1,72 @@
+﻿@model List<Energy.Models.Order>
+
+<!--Start breadcrumb area-->
+<section class="breadcrumb-area style3" style="background-image: url(https://html.tonatheme.com/2020/energy-demo/assets/images/breadcrumb/breadcrumb-3.jpg);">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="inner-content clearfix">
+                    <div class="title wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                        <h1>История заявок</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End breadcrumb area-->
+<!--Start Contact Form Section-->
+<section id="contact" class="contact-form-area style2">
+        <h2>Ваши заказы</h2>
+        @if (Model != null && Model.Any())
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Имя</th>
+                        <th>Email</th>
+                        <th>Услуга</th>
+                        <th>Телефон</th>
+                        <th>Дата</th>
+                        <th>Сообщение</th>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <th>Имя пользователя</th>
+                            <th>Email пользователя</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var order in Model)
+                    {
+                        <tr>
+                            <td>@order.Name</td>
+                            <td>@order.Email</td>
+                        <td>@order.Service</td>
+                        <td>@order.Phone</td>
+                            <td>@order.Date.ToShortDateString()</td>
+                            <td class="message-column">@order.Message</td>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <td>@order.User.UserName</td>
+                                <td>@order.User.Email</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>У вас нет заказов.</p>
+        }
+</section>
+
+<style>
+    .message-column {
+        max-width: 200px; /* Установите максимальную ширину столбца "Message" */
+        overflow: hidden;
+        text-overflow: ellipsis; /* Добавляет многоточие, если текст выходит за границы */
+        white-space: nowrap; /* Запрещает перенос текста */
+    }
+</style>

@@ -1,0 +1,1273 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Energy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Energy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\color.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\hiddenbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\hiddenbar.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\imp.css",
+      "PackagePath": "staticwebassets\\assets\\css\\imp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\nouislider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\polyglot-language-switcher.css",
+      "PackagePath": "staticwebassets\\assets\\css\\polyglot-language-switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\css\\timePicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\timePicker.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\about\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\about\\about-video-gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-video-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-single-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v2-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v3-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v3-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v4-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v4-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v4-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\blog-v4-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-v4-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\comment-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\comment-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\comment-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\next-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\next-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\blog\\prev-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\prev-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-v2-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-v2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-v2-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-v2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-v2-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-v2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-v2-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-v2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\brand\\brand-v2-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-v2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\breadcrumb\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\breadcrumb\\breadcrumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\breadcrumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\breadcrumb\\breadcrumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\breadcrumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\breadcrumb\\breadcrumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\breadcrumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\breadcrumb\\breadcrumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\breadcrumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\android-chrome-256x256.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\android-chrome-256x256.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\favicon\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\bg-scrollbar-thumb-y.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\bg-scrollbar-thumb-y.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\bg-scrollbar-track-y.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\bg-scrollbar-track-y.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\bg-scrollbar-trackend-y.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\bg-scrollbar-trackend-y.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\bx_loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\bx_loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\icon-cross.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon-cross.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\image-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\image-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\de.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\es.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\gb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\language-switcher\\it.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\language-switcher\\it.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\lightbox-close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\lightbox-close.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\play-btn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\play-btn.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\preloader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\submenu-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\submenu-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\tick.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\icon\\zoom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\zoom.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\parallax-background\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\parallax-background\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\parallax-background\\strategy-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\parallax-background\\strategy-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\body-pattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\body-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\collaborate-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\collaborate-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\features-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\features-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-10.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-7.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-8.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\pattern-bg-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\pattern-bg-9.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\sidebar-contact-box-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\sidebar-contact-box-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\pattern\\testimonial-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern\\testimonial-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-chart.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-chart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-detail-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-detail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v1-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\project\\project-v2-outerimage-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-v2-outerimage-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\blog-video-gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\blog-video-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\calculate-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\calculate-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\collaborate-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\collaborate-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\consulting-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\consulting-img.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\features-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\features-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\features-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\features-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\features-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\features-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\how-work-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\how-work-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\innovative.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\innovative.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-6.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo-7.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\resources\\signature.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-single-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-single-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-single-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-v2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-v2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-v2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\service-v2-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\service-v2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\single-service-style3-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\single-service-style3-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\services\\single-service-style4-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services\\single-service-style4-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\arrow-bottom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\arrow-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\arrow-top.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\arrow-top.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\quote-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\quote-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\round-box-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\round-box-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\round-box.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\round-box.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\sidebar\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\sidebar\\recent-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\recent-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\sidebar\\recent-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\recent-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\sidebar\\recent-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\recent-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\banner-style2-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\banner-style2-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\slides\\slide-v3-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slides\\slide-v3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-single-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\team\\team-v1-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-v1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\testimonial\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\testimonial\\testimonial-v1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-v1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\testimonial\\testimonial-v1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-v1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\testimonial\\testimonial-v2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-v2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\images\\testimonial\\testimonial-v3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial-v3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\appointment.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\appointment.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\PHPMailerAutoload.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\PHPMailerAutoload.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\class.phpmailer.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\class.phpmailer.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\class.phpmaileroauth.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\class.phpmaileroauth.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\class.phpmaileroauthgoogle.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\class.phpmaileroauthgoogle.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\class.pop3.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\class.pop3.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\class.smtp.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\class.smtp.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\phpmailer\\get_oauth_token.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\phpmailer\\get_oauth_token.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\sendemail-with-autoresponder.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\sendemail-with-autoresponder.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\inc\\sendmail.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\sendmail.php"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\appear.js",
+      "PackagePath": "staticwebassets\\assets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\assets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.enllax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.enllax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\jquery.polyglot.language.switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.polyglot.language.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\knob.js",
+      "PackagePath": "staticwebassets\\assets\\js\\knob.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\lazyload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-script.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\nouislider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nouislider.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\timePicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timePicker.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\validation.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\Energy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Energy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Energy.props",
+      "PackagePath": "build\\Energy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Energy.props",
+      "PackagePath": "buildMultiTargeting\\Energy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Energy.props",
+      "PackagePath": "buildTransitive\\Energy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

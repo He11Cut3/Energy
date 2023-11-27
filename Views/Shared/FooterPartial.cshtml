@@ -1,0 +1,64 @@
+﻿<!--Start footer area-->
+<footer class="footer-area">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <!--Start single footer widget-->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.3s">
+                    <div class="single-footer-widget marbtm50">
+                        <div class="our-company-info">
+                            <div class="footer-logo">
+                                <a asp-controller="Home" asp-action="Index"><img src="~/assets/images/resources/logo.png" alt="Awesome Footer Logo" title="Logo"></a>
+                            </div>
+                            <div class="text">
+                                <p>Компания "Energy" – это страховой лидер с многолетним опытом в области защиты имущества. Наша миссия - предоставлять высококачественные страховые продукты и услуги, сочетая инновационные подходы с традиционными ценностями.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End single footer widget-->
+                <!--Start single footer widget-->
+                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.7s">
+                    <div class="single-footer-widget">
+                        <div class="title">
+                            <h3>Быстрый переход</h3>
+                        </div>
+                        <ul class="resources-links">
+                            <li class="dropdown scrollToLink">
+                                <a class="home-icon" asp-controller="Home" asp-action="Index">Главная</a>
+                            </li>
+                            <li class="scrollToLink"><a href="/#about" onclick="scrollToSection('about')">О нас</a></li>
+                            <li class="scrollToLink"><a href="/#services" onclick="scrollToSection('services')">Услуги</a></li>
+                            <li class="scrollToLink"><a href="/#projects" onclick="scrollToSection('projects')">Проект</a></li>
+                            <li class="scrollToLink"><a asp-controller="Order" asp-action="Create">Заявка</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--End single footer widget-->
+            </div>
+        </div>
+    </div>
+</footer>
+<!--End footer area-->
+
+<script>
+    function scrollToSection(sectionId) {
+        // Проверка, находится ли пользователь на домашней странице
+        if (window.location.pathname === '/') {
+            // Если да, то сначала прокрутить до указанного раздела
+            var targetElement = document.getElementById(sectionId);
+            if (targetElement) {
+                targetElement.scrollIntoView({ behavior: 'smooth' });
+            }
+        } else {
+            // Если нет, то перейти на домашнюю страницу и затем прокрутить
+            window.location.href = "/";
+            setTimeout(function () {
+                var targetElement = document.getElementById(sectionId);
+                if (targetElement) {
+                    targetElement.scrollIntoView({ behavior: 'smooth' });
+                }
+            }, 500); // Измените задержку по необходимости
+        }
+    }
+</script>
